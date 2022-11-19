@@ -3,7 +3,7 @@
 PORT=443
 echo "Port: $PORT"
 
-# POST method predict 
+# POST method predict
 curl -d '{
    "CHAS":{
       "0":0
@@ -25,5 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST https://bhabaniwebapp2.azurewebsites.net:$PORT/predict 
+     -X POST https://<yourappname>.azurewebsites.net:$PORT/predict 
      #your application name <yourappname>goes here
