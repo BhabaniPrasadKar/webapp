@@ -20,7 +20,7 @@ Instructions for running the Python project.
 1. Login to azure cloud shell, generate ssh key
 2. Add the ssh key to your github
 3. Clone the git hub repository to Azure Cloud shell![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/git_clone.png)
-5. Novigate to repository folder by using `cd webapp1`,create a virtual environment in Azure cloud shell and run `make all` command
+5. Navigate to repository folder by using `cd webapp1`,create a virtual environment in Azure cloud shell and run `make all` command
  ![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/makeall.png)
 6. Run `az webapp up --name <your app name> --resource-group <your resource group> --runtime "PYTHON:3.7"` command to start a webapp
   ![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/creatingwebapp.png)
