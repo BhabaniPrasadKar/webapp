@@ -3,7 +3,7 @@
 This project tries to bring the ever popular Machine Learning model "Boston House Price Calculator" to Azure Cloud CI/CD environment. It amkes use of Azure Pipelines for Continuos Delovery.
 
 ## Project Plan
-#### The project plan here involves bringing the project to cloud native environment so that like minded people can collaborate and biuld on an already successful machine learning model.
+#### The project plan here involves bringing the project to cloud native environment so that like minded people can collaborate and build on an already successful machine learning model.
 
 * [Here](https://trello.com/b/E3Fk0Ir5/azure-cicd-pipeline-for-boston-hosing-prediction-ml-build-automation) is a link to Trello board, with details of current enhancements in progress and future enhancements planned.
 * A project plan with estimated delivery dates can be found from the link [here](https://docs.google.com/spreadsheets/d/11sRM9VPb4arO48ChZtrHJdZn_FJhWFqeG1Onlnw36nE/edit?usp=sharing).
