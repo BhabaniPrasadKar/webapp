@@ -48,8 +48,6 @@ To test you can make changes to the files in GITHub and find the pipeline run tr
 The Project can be enhanced to accept larger dataset to cater to more cities. It can also account for buyer sentiments while creating predictions.  
 
 
-## Demo 
 
-<TODO: Add link Screencast on YouTube>
 
 
