@@ -11,7 +11,7 @@ This project tries to bring the ever popular Machine Learning model "Boston Hous
 ## Instructions
 
 # Architectural Diagram (Shows how key parts of the system work)
-![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/project_background.png)
+![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/project_background1.png)
 
 Instructions for running the Python project. 
 
