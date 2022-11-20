@@ -34,8 +34,8 @@ Instructions for running the Python project.
 9. Login to Azure Devops and create a new devops project.
 ![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/create_project.png)
 10. Create a service connection so that your Azure Devops account has acces to your Azure resources.
-![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/create_project.png)
-3. Create a  Pipeline for continuous delivery.
+![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/service_connection.png)
+11. Create a  Pipeline for continuous delivery.
 ![img](https://github.com/BhabaniPrasadKar/webapp1/blob/main/p6readme/pipeline_create.png)
 
 To test you can make changes to the files in GITHub and find the pipeline run triggered.
